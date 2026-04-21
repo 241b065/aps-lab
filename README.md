@@ -31,7 +31,8 @@ This section includes all the lab assignments completed during the course.
 | Lab 7   | Greedy Approach            | Greedy Knapsack problem                    |
 | Lab 8   | Trees                      | Minimum cost spanning tree                 |
 | Lab 9   | Dijkstra Algorithm         | Shortest Path Using Dijkstra Algorithm     |   
-| Lab 10   | Warshall algorithm         | to find reachability b/w all pairs of vertices in a graph |
+| Lab 10  | Warshall algorithm         | to find reachability b/w all pairs of vertices in a graph |
+| Lab 11  | Travelling salesman problem|Travelling salesman problem using DP        | 
 ---
 
 ## 🧩 Major Problem Topics
